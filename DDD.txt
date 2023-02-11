@@ -1,0 +1,6 @@
+Range Rover Specification:
+Engine:2997 cc-4395 cc
+BHP: 345.98
+Seating  Capacity: 7
+Drive type: AWD
+Fuel Type: Petrol

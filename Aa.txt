@@ -1,0 +1,6 @@
+Ford Mustang Specification:
+Engine: 4951cc
+BHp: 395.0
+Transmission: Automatic
+Seating Capacity: 4
+Fuel Type: Petrol

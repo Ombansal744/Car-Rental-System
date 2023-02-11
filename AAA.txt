@@ -1,0 +1,6 @@
+Rolls-Royce Phatom Specification:
+Engine: 6749 cc
+BHP: 563.0 BHP
+Transmission: Automatic
+Fuel type: Petrol
+Boot space: 460-litres

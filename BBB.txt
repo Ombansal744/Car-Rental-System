@@ -1,0 +1,5 @@
+Roll-Royce Ghost Specification:
+Engine: 6750 cc
+BHP: 563.0
+Transmisson: Automatic
+Fuel Type: Petrol

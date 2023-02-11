@@ -1,0 +1,5 @@
+Toyota Supra Specification:
+Engine: 1998cc
+Fuel Type: Petrol
+Transmission type: Automatic
+Body type: Coupe

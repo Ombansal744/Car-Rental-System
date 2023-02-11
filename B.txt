@@ -1,0 +1,7 @@
+BMW X5 Specification:
+Engine: 2993cc- 2998cc
+BHP: 261.49-225.26  Bhp
+Drive type: AWD
+Seating capacity: 5 seats
+Fuel Type: Petrol
+

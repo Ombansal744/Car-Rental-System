@@ -1,0 +1,5 @@
+Tata Safari Specification:
+Engine: 1956 cc
+BHP: 167.76 Bhp
+Seating Capcity: 7
+Fuel Type: Disel

@@ -1,0 +1,5 @@
+Mercedes-Benz Maybach S-Class Specification:
+Engine: 3982 cc- 5980 cc
+BHP: 496.17-603.46 
+Transmission: Automatic
+Fuel Type: Petrol

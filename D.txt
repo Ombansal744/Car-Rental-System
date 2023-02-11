@@ -1,0 +1,6 @@
+MG Hector Specification:
+Engine: 1451cc - 1956cc
+BHP: 141.0-167.76
+Seating Capacity: 5
+Drive Type: FWD
+Fuel TYpe: Petrol
